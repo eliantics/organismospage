@@ -1,0 +1,62 @@
+.organismos{
+    font-size:150px;
+    color: black;
+    text-align: center;
+}
+
+.krebs{
+    color: black;
+}
+
+.adnyarn{
+    color: black;
+}
+
+.eucariotaprocariota{
+    color: #048de9
+}
+
+.header{
+    background-color: #a2fb77;
+}
+
+.contenidoycontexto{
+    font-style: italic;
+    text-align: left;
+}
+
+.paginaweb{
+    font-style: italic;
+    text-align: right;
+}
+
+.autor{
+    font-style: italic;
+    text-align: right;
+}
+
+.img{
+    width: 1000px;
+    height: 500px;
+    
+}
+
+.ejemplosvisuales{
+    background-color: rgb(255, 196, 73);
+    justify-content: center;
+}
+
+.keso{
+    display: flex;
+    justify-content: center;
+}
+
+.texto{
+    background-color: #86c7ff;
+    justify-content: center;
+        
+}
+
+.videosylinks{
+    background-color: #ff5656;
+}
